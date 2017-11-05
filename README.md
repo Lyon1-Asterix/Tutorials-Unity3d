@@ -3,8 +3,11 @@ Ce dépôt regroupe toutes les ressources utiles concernant les tutos Unity ayan
 
 Trucs à avoir téléchargé || installé pour pouvoir participer :
 
- - Windows/MacOS (euh je vous met vraiment un lien ? Bon ok... https://www.youtube.com/watch?v=dQw4w9WgXcQ)
- - Unity 5 - personal edition (https://unity3d.com/get-unity/download?ref=personal)
+ - Windows/MacOS/un Linux obscur quelconque (euh je vous met vraiment un lien ? Bon ok... https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ - Unity 5 - personal edition
+   - Windows/Mac : https://unity3d.com/get-unity/download?ref=personal
+   - Linux Debian-like : il faut installer le .deb du dernier post de https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/page-2, puis le paquet monodevelop (important si vous voulez coder quoi que ce soit)
+   - autres Linux : demerden Sie sich :p
  - Le package du tuto qui contient les ressources de base du projet (normalement c'est marqué au tableau)
 
 Packages Tutos
