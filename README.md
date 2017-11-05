@@ -8,15 +8,8 @@ Trucs à avoir téléchargé || installé pour pouvoir participer :
    - Windows/Mac : https://unity3d.com/get-unity/download?ref=personal
    - Linux Debian-like : il faut installer le .deb du dernier post de https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/page-2, puis le paquet monodevelop (important si vous voulez coder quoi que ce soit)
    - autres Linux : demerden Sie sich :p
- - Le package du tuto qui contient les ressources de base du projet (normalement c'est marqué au tableau)
+ - Le package du tuto qui contient les ressources de base du projet (Psst, il y a un répertoire "Packages Unity" dans le dépôt, ça doit être par là)
 
-Packages Tutos
-
-   1) "Tank you very much" : http://data.fwft.fr/TutosAugustin/tutoriel_tanks.unitypackage
-   2) "Penguino et Penguina" : http://data.fwft.fr/TutosAugustin/Penguins-tuto.unitypackage
-   3) "Eh mais c'est minecraft !" : http://data.fwft.fr/TutosAugustin/mycroft.unitypackage
-   4) "Goddamit Leroy !" : incoming ;)
-   5) Metroid X : incoming aussi :)
 
 Liens utiles :
 
